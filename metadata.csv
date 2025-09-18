@@ -1,0 +1,11 @@
+cord_uid,title,abstract,publish_time,journal,authors,source_x
+abc123,COVID-19 and its Impact on Global Health,This paper discusses the global impact of COVID-19 on healthcare systems.,2020-03-15,The Lancet,Smith J; Lee K,WHO
+def456,Machine Learning Models for COVID-19 Diagnosis,We evaluate ML models for diagnosing COVID-19 using CT scans.,2020-05-10,Nature Medicine,Chen L; Kumar A,PMC
+ghi789,Clinical Features of Patients Infected with COVID-19,The study reviews clinical symptoms and demographics of patients.,2020-02-28,BMJ,Wang M; Ali S,Elsevier
+jkl012,A Review of SARS-CoV-2 Transmission,This article reviews how SARS-CoV-2 spreads between individuals.,2020-06-20,Science,Patel R; Jones H,Springer
+mno345,Vaccine Development Against Novel Coronavirus,An overview of challenges and progress in coronavirus vaccine development.,2021-01-05,Vaccine,Garcia M; Tanaka Y,BioRxiv
+pqr678,Social Distancing and Pandemic Control Measures,We analyze how distancing measures reduce viral spread.,2020-04-12,JAMA,Brown D; Ahmed P,MedRxiv
+stu901,Mental Health During the COVID-19 Pandemic,Survey results highlight mental health challenges during lockdowns.,2021-03-22,Journal of Psychiatry,Lopez G; Singh R,Elsevier
+vwx234,Economic Impact of Lockdowns Worldwide,The global economy faced unprecedented challenges due to COVID-19.,2020-07-18,World Economics Journal,Taylor K; Zhang W,Wiley
+yz1234,Long-term Effects of COVID-19 Infections,We explore potential long-term complications from infections.,2021-05-14,New England Journal of Medicine,Nguyen T; Adams B,NEJM
+aaa567,Digital Tools for Contact Tracing of COVID-19,This study reviews the effectiveness of digital contact tracing apps.,2020-08-30,Digital Health,Hernandez J; Rossi F,ArXiv
